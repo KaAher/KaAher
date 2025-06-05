@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi there, I'm Kaveri Aher!
 
-<!--
-**KaAher/KaAher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a B.tech student pursuing **Artificial Intelligence and Data Science**.  
+💡 I enjoy creating practical, real-world projects using machine learning, data analysis, and full-stack development tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## skills 
+
+**Languages & Tools**  
+`Python` | `C++` | `SQL`
+
+**Frameworks & Libraries**  
+`Django` | `Streamlit` | `OpenCV` | `scikit-learn` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn`
+
+**Machine Learning & Data Science**  
+- Supervised & Unsupervised Learning  
+- Model Evaluation, Tuning, and Selection  
+- Exploratory Data Analysis (EDA)  
+- Statistics (Descriptive, Inferential)  
+- ML Deployment (Render, Streamlit, Docker)  
+- MLOps basics (CI/CD, MLflow, GitHub Actions)
+
+**Tools & Platforms**  
+`Docker` | `GitHub` |`Power BI` | `Tableau` |`PostgreSQL` 
+`Power BI` | `Tableau` `Jupyter Notebook`
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Online Job Portal](https://github.com/KaAher/online-job-portal) | Web app for job seekers and providers using Django | Django, HTML, CSS, PostgreSQL |
+| [Loan Approval System](https://github.com/KaAher/loan-approval-streamlit) | Predicts loan approvals using ML and Streamlit | Streamlit, MySQL, scikit-learn |
+| [Accident Detection & Notification](https://github.com/KaAher/mlops2) | ML-based accident detector with CI/CD and deployment | Python, Docker, GitHub Actions, MLflow |
+| [Computer Vision Filters App](https://github.com/KaAher/image-filter-cv) | Apply real-time filters to images | OpenCV, Python |
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaAher&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaAher&layout=compact)
+
+---
+
+## 📫 Let's Connect
+
+- ✉️ Email: [kaveraher843@gmail.com](mailto:kaveraher843@gmail.com)  
+- 💼 LinkedIn: *[(Add your LinkedIn URL her)](https://github.com/KaAher?tab=repositories)*  
+
+
+---
+
+> “I believe in learning by doing, and I enjoy solving real-world problems through code.”  
+> — Kaveri Aher
