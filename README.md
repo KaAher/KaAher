@@ -35,7 +35,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaAher&theme=default)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaAher&layout=compact)
 
 ---
