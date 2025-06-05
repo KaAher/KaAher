@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Kaveri Aher!
 
-🎓 I'm a B.tech student pursuing **Artificial Intelligence and Data Science**.  
-💡 I enjoy creating practical, real-world projects using machine learning, data analysis, and full-stack development tools.
+I'm a B.tech student pursuing **Artificial Intelligence and Data Science**.  
+I enjoy creating practical, real-world projects using machine learning, data analysis, and full-stack development tools.
 
 ---
 
