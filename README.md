@@ -11,10 +11,15 @@
 `Python` | `C++` | `SQL`
 
 **Frameworks & Libraries**  
-`Django` | `Streamlit` | `OpenCV` | `scikit-learn` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn`
+`Django` | `Streamlit` | `OpenCV` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn`
 
-**Machine Learning**  
-**Statistics**
+## 🤖 Machine Learning & Data Analysis
+
+`Data Analysis` | `EDA` |`scikit-learn`| `Deep Learning` | `TensorFlow` | `Natural Language Processing (NLP)` 
+
+## 📊 Statistics
+
+`Descriptive Statistics` | `Inferential Statistics` | `Probability` | `Hypothesis Testing` | `Regression Analysis`
 
 **Tools & Platforms**  
 `Docker` | `GitHub` |`Power BI` | `Tableau` |`PostgreSQL` 
