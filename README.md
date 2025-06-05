@@ -13,13 +13,8 @@
 **Frameworks & Libraries**  
 `Django` | `Streamlit` | `OpenCV` | `scikit-learn` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn`
 
-**Machine Learning & Data Science**  
-- Supervised & Unsupervised Learning  
-- Model Evaluation, Tuning, and Selection  
-- Exploratory Data Analysis (EDA)  
-- Statistics (Descriptive, Inferential)  
-- ML Deployment (Render, Streamlit, Docker)  
-- MLOps basics (CI/CD, MLflow, GitHub Actions)
+**Machine Learning**  
+**Statistics**
 
 **Tools & Platforms**  
 `Docker` | `GitHub` |`Power BI` | `Tableau` |`PostgreSQL` 
@@ -48,7 +43,7 @@
 ## 📫 Let's Connect
 
 - ✉️ Email: [kaveraher843@gmail.com](mailto:kaveraher843@gmail.com)  
-- 💼 LinkedIn: *[(Add your LinkedIn URL her)](https://github.com/KaAher?tab=repositories)*  
+- 💼 LinkedIn: *[(Kaveri Aher)](https://github.com/KaAher?tab=repositories)*  
 
 
 ---
