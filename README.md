@@ -27,11 +27,10 @@ I enjoy creating practical, real-world projects using machine learning, data ana
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Online Job Portal](https://github.com/KaAher/online-job-portal) | Web app for job seekers and providers using Django | Django, HTML, CSS, PostgreSQL |
 | [Loan Approval System](https://github.com/KaAher/loan-approval-streamlit) | Predicts loan approvals using ML and Streamlit | Streamlit, MySQL, scikit-learn |
 | [Accident Detection & Notification](https://github.com/KaAher/mlops2) | ML-based accident detector with CI/CD and deployment | Python, Docker, GitHub Actions, MLflow |
 | [Computer Vision Filters App](https://github.com/KaAher/image-filter-cv) | Apply real-time filters to images | OpenCV, Python |
-
+| [Online Job Portal](https://github.com/KaAher/online-job-portal) | Web app for job seekers and providers using Django | Django, HTML, CSS, PostgreSQL |
 ---
 
 ## 📊 GitHub Stats
