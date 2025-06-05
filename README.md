@@ -13,13 +13,9 @@ I enjoy creating practical, real-world projects using machine learning, data ana
 **Frameworks & Libraries**  
 `Django` | `Streamlit` | `OpenCV` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn`
 
-## 🤖 Machine Learning & Data Analysis
+##  Machine Learning & Data Analysis
 
-`Data Analysis` | `EDA` |`scikit-learn`| `Deep Learning` | `TensorFlow` | `Natural Language Processing (NLP)` 
-
-## 📊 Statistics
-
-`Descriptive Statistics` | `Inferential Statistics` | `Probability` | `Hypothesis Testing` | `Regression Analysis`
+`Data Analysis` | `EDA` |`scikit-learn`| `Deep Learning` | `TensorFlow` | `Natural Language Processing (NLP)` | `Statistics`
 
 **Tools & Platforms**  
 `Docker` | `GitHub` |`Power BI` | `Tableau` |`PostgreSQL` 
